@@ -1,0 +1,15 @@
+# Backend
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# Common
+.env
+.DS_Store
+.idea
+*.log
